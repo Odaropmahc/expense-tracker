@@ -1,0 +1,15 @@
+# Author : Kenneth N. Sonio DIT 3-7
+print ("=" * 40)
+print ("\t\tEXPENSE TRACKER")
+print ("\tKnow where your money goes.")
+print ("=" * 40)
+print ("\n Welcome! This is your personal expense tracker.")
+print ("\nMAIN MENU")
+print ("\t[1] Add an expense\t(coming soon)")
+print ("\t[2] View all expense\t(coming soon)")
+print ("\t[3] Show total expesnse\t(coming soon)")
+print ("\t[4] Exit\t\t(coming soon)")
+print ("-" * 40)
+print("Made by: Kenneth N. Sonio | Installment 1")
+print ("=" * 40)
+
